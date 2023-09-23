@@ -20,8 +20,6 @@
 	text-align: justify;
 }
 
-
-
 [epub|type~="z3998:letter"] header{
 	text-align: right;
 }
@@ -42,8 +40,6 @@ footer{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
-
-
 
 [epub|type~="z3998:verse"] p{
 	text-align: initial;

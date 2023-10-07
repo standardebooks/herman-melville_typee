@@ -47,37 +47,39 @@
 		<meta property="term" refines="#subject-3">sh2008111143</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Adventure</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">Two seamen escape from their service onboard a whaling ship, only to find themselves trapped among savages in the Marquesas Islands.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Tom and fellow sailor Toby escape from their duties onboard a whaling ship and fall in with savages on Nukuheva (Nuku Hiva) of the Marquesas Islands. The islanders welcome them to their tropical paradise, but the two runaways must remain on guard to find out if these savages are truly friends or foes.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Typee&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/herman-melville"&gt;Herman Melville&lt;/a&gt;’s first novel, written after his own voyages and experiences on a whaling ship to the Marquesas and beyond. Tom was a stand-in for the author himself, whose in-depth reports on the islanders and their way of life in this novel caused it to be an invaluable guide for travelers visiting the Marquesas. This seafaring adventure was immediately well-received and, followed by other novels of his continuing voyages, helped launch Melville’s writing career. He is best known today for penning &lt;i href="https://standardebooks.org/ebooks/herman-melville/moby-dick"&gt;Moby Dick&lt;/i&gt;, but his characteristic style, namely his humor and philosophical musings, is present even here.&lt;/p&gt;
+			&lt;p&gt;Presented here is the 1892 edition, which includes passages cut from earlier editions that were critical of aspects of Christian missions to the Polynesian islands, and were not well regarded by the original audiences.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1900</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/typeearealroman00melvgoog</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Typee</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/herman-melville_typee</meta>
 		<dc:creator id="author">Herman Melville</dc:creator>
 		<meta property="file-as" refines="#author">Melville, Herman</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Herman_Melville</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79006936</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">William Hodges</dc:contributor>
+		<meta property="file-as" refines="#artist">Hodges, William</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_Hodges</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79055657</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Dianne Bean</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Bean, Dianne</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Duncan McFarland</dc:contributor>
+		<meta property="file-as" refines="#producer-1">McFarland, Duncan</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>

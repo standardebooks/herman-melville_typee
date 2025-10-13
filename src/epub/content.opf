@@ -68,7 +68,7 @@
 		<meta property="file-as" refines="#author-1">Melville, Herman</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Herman_Melville</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-1">http://id.loc.gov/authorities/names/n79006936</meta>
-		<meta property="role" refines="#author-1" scheme="marc:relators">aft</meta>
+		<meta property="role" refines="#author-1" scheme="marc:relators">waw</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">wpr</meta>
@@ -76,7 +76,7 @@
 		<meta property="file-as" refines="#author-2">Stedman, Arthur</meta>
 		<meta property="se:name.person.full-name" refines="#author-2">Arthur Griffin Stedman</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-2">http://id.loc.gov/authorities/names/no2010067522</meta>
-		<meta property="role" refines="#author-2" scheme="marc:relators">aui</meta>
+		<meta property="role" refines="#author-2" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">William Hodges</dc:contributor>
 		<meta property="file-as" refines="#artist">Hodges, William</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_Hodges</meta>

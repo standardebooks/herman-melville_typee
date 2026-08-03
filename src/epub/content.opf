@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/herman-melville/typee</dc:identifier>
 		<dc:date>2023-10-09T20:10:22Z</dc:date>
@@ -51,13 +51,13 @@
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="schema:genre">Adventure</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">Two seamen escape from their service onboard a whaling ship, only to find themselves trapped among savages in the Marquesas Islands.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Two seamen escape from their service onboard a whaling ship, only to find themselves trapped among savages in the Marquesas Islands.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Tom and fellow sailor Toby escape from their duties onboard a whaling ship and fall in with savages on Nukuheva (Nuku Hiva) of the Marquesas Islands. The islanders welcome them to their tropical paradise, but the two runaways must remain on guard to find out if these savages are truly friends or foes.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Typee&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/herman-melville"&gt;Melville’s&lt;/a&gt; first novel, written after his own voyages and experiences on a whaling ship to the Marquesas and beyond. Tom was a stand-in for the author himself, whose in-depth reports on the islanders and their way of life in this novel caused it to be an invaluable guide for travelers visiting the Marquesas.&lt;/p&gt;
 			&lt;p&gt;This seafaring adventure was immediately well-received, and, followed by other novels of his continuing voyages, helped launch Melville’s writing career.&lt;/p&gt;
 			&lt;p&gt;Presented here is the 1892 edition, which includes passages cut from earlier editions that were critical of aspects of Christian missions to the Polynesian islands, and were not well-regarded by contemporary audiences.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1900</dc:source>
 		<dc:source>https://archive.org/details/typeearealroman00melvgoog</dc:source>

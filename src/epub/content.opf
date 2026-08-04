@@ -51,7 +51,7 @@
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="schema:genre">Adventure</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>Two seamen escape from their service onboard a whaling ship, only to find themselves trapped among savages in the Marquesas Islands.</dc:abstract>
+		<meta property="schema:abstract">Two seamen escape from their service onboard a whaling ship, only to find themselves trapped among savages in the Marquesas Islands.</meta>
 		<dc:description>
 			&lt;p&gt;Tom and fellow sailor Toby escape from their duties onboard a whaling ship and fall in with savages on Nukuheva (Nuku Hiva) of the Marquesas Islands. The islanders welcome them to their tropical paradise, but the two runaways must remain on guard to find out if these savages are truly friends or foes.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Typee&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/herman-melville"&gt;Melville’s&lt;/a&gt; first novel, written after his own voyages and experiences on a whaling ship to the Marquesas and beyond. Tom was a stand-in for the author himself, whose in-depth reports on the islanders and their way of life in this novel caused it to be an invaluable guide for travelers visiting the Marquesas.&lt;/p&gt;

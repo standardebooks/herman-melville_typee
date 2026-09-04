@@ -38,9 +38,9 @@
 		<meta property="file-as" refines="#fulltitle">Typee</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Adventure stories</dc:subject>
-		<dc:subject id="subject-2">Indigenous peoples -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Sailors -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Marquesas Islands (French Polynesia) -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Indigenous peoples--Fiction</dc:subject>
+		<dc:subject id="subject-3">Sailors--Fiction</dc:subject>
+		<dc:subject id="subject-4">Marquesas Islands (French Polynesia)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85001072</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
